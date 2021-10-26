@@ -1,0 +1,24 @@
+.imgcenter{
+
+	
+	width: 100%;
+
+}
+
+.imgcenter img{
+	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+	
+}
+
+
+.imgcenter h1{
+	
+	text-align: center;
+	margin-left:  auto;
+}
+
+
